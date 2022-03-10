@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shaylalewis
+- 👋 Hi, I’m @shayla
 - 👀 I’m interested in HTML, CSS, JavaScript, and UI Design
 - 🌱 I’m currently learning JavaScript and UI design. I'm always working on my CSS though (っ˘̩╭╮˘̩)っ
 - 💞️ I’m looking to collaborate on ...
