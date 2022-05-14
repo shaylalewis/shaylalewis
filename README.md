@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏾, I'm Shayla</h1>
-<h3 align="center">A neat frontend developer from the USA</h3>
+<h3 align="center">A neat frontend developer from the Ohio</h3>
 
 <p align="left"> <a href="https://twitter.com/css_strudel" target="blank"><img src="https://img.shields.io/twitter/follow/css_strudel?logo=twitter&style=for-the-badge" alt="css_strudel" /></a> </p>
 
