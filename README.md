@@ -96,16 +96,16 @@ Software Engineer Portfolio
 </td><td valign="top" width="50%">
 
 <div align="right">
-<img src="https://media.giphy.com/media/hQF6zVW18wPSzv5ZL7/giphy.gif" align="right" height="300" width="500" />
+<img src="https://media.giphy.com/media/LFZEXd9MpuJMccR3YO/giphy.gif" align="right" height="300" width="500" />
 </div>  
   
 
-Random Quote Generator  
+Art Portfolio  
   
 
-[Demo](https://optimistic-morse-45d0bf.netlify.app)
+[Demo](https://kitsune23star.netlify.app)
 🖱️
-[Code](https://github.com/shaylalewis/random_quote_generator_v1)  
+[Code](https://github.com/shaylalewis/Preshes)  
 
 
 </td></tr></table>  
